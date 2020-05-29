@@ -6,6 +6,6 @@ public class Assignment1 {
 
 }
  Output : javac Assignment1.java
-          java Assignment1 ABC Chennai
+          java Assignment1 Abc Chennai
 
-          ABC Technologies Chennai
+          Abc Technologies Chennai
